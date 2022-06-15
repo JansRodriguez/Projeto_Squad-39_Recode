@@ -37,8 +37,7 @@ h3{
     color: orange;
 }
 .paragrafo{
-    text-align: justify;
-    
+    text-align: justify; 
 }
 .cabecalho img{
     width: 60px;
@@ -46,28 +45,22 @@ h3{
     border: none;
     padding-top: 3px;
 }
-
 footer img{
     width: 40px;
     height: 40px;
     background-color: rgb(100, 98, 98);
 }
-
 footer{
     display: flex;
     justify-content: center;
-
 }
-
 footer a{
     margin: 20px;
     text-align: center;
 }
-
 footer p{
     margin-top: 5px;
 }
-
 nav a:hover{
     color: rgb(98, 158, 98);
 }
